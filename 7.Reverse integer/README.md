@@ -67,24 +67,28 @@ public class Main {
 }
 ## ▶️ How to Run
 
-1. Save the code in a file called `Main.java`
-2. Compile the program:
+1. Ensure you have Java installed on your system
+2. Save both classes in `Main.java`
+3. Open terminal in the file location
+4. Compile the program:
     ```bash
     javac Main.java
     ```
-3. Run the program:
+5. Run the program:
     ```bash
     java Main
     ```
 
-## ✅ Example Output
+Note: The program requires Java 8 or higher.
+
+## ✨ Example Output
 ```
 input: 123 -> output: 321
 input: -456 -> output: -654
 input: 1534236469 -> output: 0
 ```
 
-## 📝 Key Notes
+## 🔑 Key Notes
 - Uses long during reversal to detect overflow
 - Returns 0 if the reversed integer goes outside the 32-bit signed range
 - Works for both positive and negative integers
@@ -94,3 +98,4 @@ input: 1534236469 -> output: 0
 
 ## 👤 Author
 Made with ❤️ by Denis-7242
+
