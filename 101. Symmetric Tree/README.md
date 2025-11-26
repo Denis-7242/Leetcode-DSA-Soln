@@ -8,19 +8,10 @@ This repository contains my Java solution for the LeetCode problem:
 Given the root of a binary tree, check whether it is a **mirror of itself** (i.e., symmetric around its center).
 
 ## 📋 Examples
-### Example 1:
-[Visual example would go here]
 
 ## ⚙️ Implementation
 
-### 🛠️ How to Run
-1. Clone the repository:
-```bash
-git clone https://github.com/Denis-7242/leetcode-101-symmetric-tree.git
-cd leetcode-101-symmetric-tree
-```
-
-2. Compile and run:
+1. Compile and run:
 ```bash
 javac Solution.java
 java Solution
