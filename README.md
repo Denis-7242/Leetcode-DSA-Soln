@@ -37,3 +37,11 @@ This repository contains my solutions to various **LeetCode problems**. Each pro
    git clone https://github.com/Denis-7242/Leetcode-DSA-Soln
    cd Leetcode-DSA-Soln
 
+
+## 📞 Support
+
+For issues or questions, please open an issue in the repository.
+
+---
+
+Made with ❤️ by Denis
