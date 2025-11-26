@@ -30,7 +30,7 @@ public class Solution {
         }
     }
 
-    // Update rating
+    // Update ratings
     public void changeRating(String food, int newRating) {
         String cuisine = foodToCuisine.get(food);
         foodToRating.put(food, newRating);
@@ -49,7 +49,7 @@ public class Solution {
         }
     }
 
-    // ✅ Main method
+    // Main method
     public static void main(String[] args) {
         String[] foods = {"kimchi","miso","sushi","moussaka","ramen","bulgogi"};
         String[] cuisines = {"korean","japanese","japanese","greek","japanese","korean"};
